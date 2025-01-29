@@ -1,7 +1,6 @@
 body{
-    background-color: aqua;
-    color:white;
+    background-color: rgb(0, 238, 205);
+
     font-weight: bold;
     font-family: italic;
-    font-size: 50px;
 }
